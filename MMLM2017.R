@@ -27,7 +27,9 @@ game_flow_details_2010_2014 <- read.csv("Data/game_flow_details_2010-2014.csv")
 massey_ordinals_2003_2016 <- read.csv("Data/massey_ordinals_2003-2016.csv")
 # massey_ordinals_2017 <- read.csv("Data/MasseyOrdinals_2017_PrelimThruDay128_69systems.csv")
 # massey_ordinals_2017 <- read.csv("Data/MasseyOrdinals_2017_ThruDay133_42systems.csv")
-massey_ordinals_2017 <- read.csv("Data/MasseyOrdinals_2017_ThruDay133_52systems.csv")
+# massey_ordinals_2017 <- read.csv("Data/MasseyOrdinals_2017_ThruDay133_52systems.csv")
+massey_ordinals_2017 <- read.csv("Data/MasseyOrdinals_2017_ThruDay133_68systems.csv")
+
 
 pomeroy_ratings <- read.csv("Data/PomeryRatings.csv")
 
