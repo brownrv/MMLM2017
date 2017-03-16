@@ -1,0 +1,352 @@
+bpi
+1	Villanova	Big East	31-3	12.1	8.4	20.5	--
+2	Gonzaga	WCC	32-1	10.8	8.8	19.6	--
+3	North Carolina	ACC	27-7	11.6	7.9	19.4	--
+4	Virginia	ACC	22-10	6.4	11.9	18.3	--
+5	Louisville	ACC	24-8	7.8	10.4	18.2	1
+6	Duke	ACC	27-8	11.8	6.1	18.0	2
+7	West Virginia	Big 12	26-8	8.2	9.7	17.9	2
+8	Florida	SEC	24-8	8.1	9.5	17.6	1
+9	Kentucky	SEC	29-5	9.5	7.6	17.1	1
+10	Kansas	Big 12	28-4	10.8	6.0	16.8	1
+11	Purdue	Big Ten	25-7	8.9	7.8	16.7	--
+12	Saint Mary's	WCC	28-4	10.7	5.8	16.5	--
+13	Oregon	Pac-12	29-5	9.1	7.1	16.2	1
+14	UCLA	Pac-12	29-4	12.9	2.9	15.9	1
+15	Wichita State	MVC	30-4	7.5	8.3	15.8	1
+16	SMU	American	30-4	10.2	5.4	15.6	2
+17	Baylor	Big 12	25-7	7.8	7.6	15.4	2
+18	Michigan	Big Ten	24-11	11.2	4.1	15.3	3
+19	Cincinnati	American	29-5	6.6	8.6	15.2	2
+20	Florida State	ACC	25-8	8.1	6.7	14.8	1
+21	Wisconsin	Big Ten	25-9	6.1	8.6	14.7	1
+22	Notre Dame	ACC	25-9	10.2	4.1	14.3	--
+23	Iowa State	Big 12	23-10	9.1	5.1	14.2	2
+24	Arizona	Pac-12	30-4	8.0	5.9	14.0	1
+25	Butler	Big East	23-8	8.6	4.7	13.3	1
+26	Oklahoma State	Big 12	20-12	10.6	1.5	12.2	1
+27	Creighton	Big East	25-9	7.9	4.1	12.0	1
+28	Miami	ACC	21-11	4.8	6.6	11.4	--
+29	Marquette	Big East	19-12	9.9	1.4	11.2	--
+30	Syracuse	ACC	18-14	7.7	3.3	11.0	1
+31	Rhode Island	A 10	24-9	4.4	6.5	10.9	8
+32	Wake Forest	ACC	19-14	10.2	0.7	10.9	2
+33	Indiana	Big Ten	18-16	7.5	3.0	10.5	1
+34	Xavier	Big East	21-13	6.3	4.0	10.3	2
+35	Kansas State	Big 12	21-13	4.9	5.4	10.2	6
+36	Dayton	A 10	24-7	4.8	5.5	10.2	2
+37	Clemson	ACC	17-16	6.7	3.5	10.1	4
+38	VCU	A 10	26-8	3.5	6.5	10.1	--
+39	Vanderbilt	SEC	19-15	5.5	4.6	10.0	10
+40	Minnesota	Big Ten	24-9	2.4	7.6	10.0	--
+41	Texas Tech	Big 12	18-14	6.0	3.7	9.7	4
+42	Houston	American	21-10	6.7	2.9	9.6	7
+43	South Carolina	SEC	22-10	0.4	9.1	9.5	1
+44	Michigan State	Big Ten	19-14	4.2	5.2	9.4	4
+45	Middle Tennessee	C-USA	30-4	4.7	4.6	9.3	6
+46	Nevada	MW	28-6	7.3	2.0	9.3	--
+47	Arkansas	SEC	25-9	6.7	2.5	9.3	3
+48	Northwestern	Big Ten	23-11	3.5	5.7	9.2	5
+49	Maryland	Big Ten	24-8	4.9	4.2	9.1	4
+50	Virginia Tech	ACC	22-10	7.6	1.4	9.1	--
+51	Vermont	Am. East	29-5	4.5	4.5	9.0	4
+52	TCU	Big 12	19-15	5.2	3.5	8.7	1
+53	Seton Hall	Big East	21-11	4.4	4.1	8.5	3
+54	Princeton	Ivy	23-6	4.3	4.1	8.4	--
+55	Providence	Big East	20-12	2.4	5.8	8.2	--
+56	California	Pac-12	21-13	0.4	7.4	7.8	4
+57	USC	Pac-12	24-9	5.3	2.3	7.6	1
+58	Alabama	SEC	19-15	-0.4	8.0	7.6	6
+59	UNC Wilmington	CAA	29-5	7.8	-0.3	7.5	--
+60	Utah	Pac-12	20-12	4.2	3.2	7.5	3
+61	Illinois State	MVC	27-6	0.2	7.2	7.4	1
+62	Illinois	Big Ten	19-14	2.9	4.3	7.2	1
+63	UCF	American	21-11	0.1	7.1	7.2	5
+64	Georgetown	Big East	14-18	2.9	4.3	7.2	2
+65	Ohio State	Big Ten	17-15	4.0	3.0	7.0	4
+66	Tennessee	SEC	16-16	3.2	3.8	7.0	--
+67	Georgia	SEC	19-14	1.7	5.0	6.7	2
+68	UT Arlington	Sun Belt	25-8	3.7	2.9	6.6	3
+69	Pittsburgh	ACC	16-17	6.0	0.4	6.5	1
+70	Davidson	A 10	17-15	4.0	2.3	6.2	4
+71	Belmont	Ohio Valley E	22-6	5.1	1.1	6.2	2
+72	Oklahoma	Big 12	11-20	1.1	5.1	6.2	5
+73	Texas	Big 12	11-22	0.2	6.0	6.2	5
+74	East Tennessee State	Southern	27-7	2.4	3.7	6.2	2
+75	Texas A&M	SEC	16-15	2.6	3.3	5.9	4
+76	Ole Miss	SEC	21-13	3.4	2.5	5.8	5
+77	BYU	WCC	22-11	2.5	3.3	5.8	2
+78	Monmouth	MAAC	27-7	2.3	3.3	5.6	2
+79	Iowa	Big Ten	18-14	3.7	1.8	5.5	2
+80	Florida Gulf Coast	A-Sun	26-7	4.1	1.2	5.3	1
+81	St Bonaventure	A 10	20-12	2.9	2.2	5.1	4
+82	Auburn	SEC	18-14	3.8	1.2	5.0	--
+83	NC State	ACC	15-17	5.7	-0.7	5.0	--
+84	Bucknell	Patriot	26-8	2.6	2.3	4.9	5
+85	Akron	MAC E	26-8	5.4	-0.5	4.9	3
+86	UNC Asheville	Big South	23-9	2.1	2.7	4.8	2
+87	Georgia Tech	ACC	18-15	-2.8	7.5	4.7	7
+88	San Diego State	MW	19-14	-0.7	5.3	4.6	8
+89	Ohio	MAC E	20-11	1.3	3.2	4.5	1
+90	Connecticut	American	16-17	1.2	3.4	4.5	5
+91	Penn State	Big Ten	15-18	-0.3	4.8	4.5	5
+92	Richmond	A 10	21-12	3.2	1.3	4.5	4
+93	Charleston	CAA	25-10	0.0	4.4	4.4	1
+94	Colorado	Pac-12	19-14	3.2	1.2	4.4	3
+95	Louisiana Tech	C-USA	23-10	1.5	2.9	4.4	8
+96	Furman	Southern	21-11	2.2	2.2	4.4	3
+97	New Mexico State	WAC	28-5	3.0	1.0	4.0	11
+98	Loyola-Chicago	MVC	18-14	2.6	1.4	3.9	1
+99	Boise State	MW	20-11	2.8	1.1	3.9	1
+100	Winthrop	Big South	26-6	1.7	2.2	3.9	--
+101	St John's	Big East	14-19	2.1	1.7	3.8	4
+102	Oakland	Horizon	25-8	0.2	3.5	3.8	5
+103	Mississippi State	SEC	16-16	1.3	2.4	3.7	2
+104	Chattanooga	Southern	19-12	1.2	2.4	3.5	--
+105	Harvard	Ivy	18-10	0.7	2.7	3.5	3
+106	Saint Peter's	MAAC	19-13	-1.0	4.3	3.3	3
+107	Valparaiso	Horizon	24-9	0.7	2.4	3.1	4
+108	Fresno State	MW	20-12	0.1	2.9	3.0	4
+109	Towson	CAA	20-13	0.8	2.2	3.0	4
+110	Temple	American	16-16	2.0	1.0	3.0	4
+111	UL Lafayette	Sun Belt	21-12	4.2	-1.3	2.9	--
+112	Toledo	MAC W	17-16	3.5	-0.7	2.9	4
+113	Lehigh	Patriot	20-12	2.0	0.9	2.9	3
+114	Albany	Am. East	21-13	2.4	0.5	2.9	--
+115	CSU Bakersfield	WAC	23-9	-2.6	5.4	2.9	2
+116	Fort Wayne	Summit	19-12	3.9	-1.0	2.9	1
+117	Colorado State	MW	24-11	2.1	0.6	2.8	15
+118	William & Mary	CAA	17-14	5.2	-2.5	2.7	1
+119	Memphis	American	19-13	0.9	1.8	2.7	14
+120	Nebraska	Big Ten	12-19	-0.1	2.5	2.4	2
+121	San Francisco	WCC	20-12	-0.8	3.2	2.4	1
+122	Santa Clara	WCC	17-16	1.4	0.9	2.3	--
+123	Troy	Sun Belt	22-14	3.6	-1.3	2.3	24
+124	Old Dominion	C-USA	19-12	-2.9	5.1	2.2	3
+125	George Mason	A 10	20-13	2.1	0.2	2.2	5
+126	UC Irvine	Big West	21-14	-1.5	3.7	2.2	2
+127	Buffalo	MAC E	17-15	0.3	1.8	2.2	2
+128	Georgia State	Sun Belt	20-12	0.4	1.8	2.1	3
+129	UNC Greensboro	Southern	25-9	2.1	-0.0	2.1	3
+130	Missouri State	MVC	17-16	2.4	-0.4	2.0	3
+131	New Mexico	MW	17-14	1.7	0.3	2.0	4
+132	Arkansas State	Sun Belt	20-12	0.3	1.7	2.0	7
+133	Stanford	Pac-12	14-17	0.0	1.9	1.9	5
+134	Iona	MAAC	22-12	4.3	-2.4	1.9	3
+135	Eastern Michigan	MAC W	16-17	0.8	1.0	1.9	12
+136	Weber State	Big Sky	19-13	4.0	-2.2	1.8	4
+137	Kent State	MAC E	22-13	0.5	1.3	1.8	6
+138	La Salle	A 10	15-15	3.8	-2.0	1.8	4
+139	Yale	Ivy	18-11	0.9	0.8	1.7	3
+140	George Washington	A 10	19-14	1.8	-0.3	1.6	1
+141	Lipscomb	A-Sun	20-13	2.7	-1.2	1.5	3
+142	Rutgers	Big Ten	15-18	-2.3	3.8	1.5	--
+143	Georgia Southern	Sun Belt	18-14	1.8	-0.4	1.5	8
+144	Mercer	Southern	15-17	2.7	-1.2	1.5	3
+145	North Dakota	Big Sky	22-9	0.9	0.5	1.4	5
+146	Gardner-Webb	Big South	19-14	-0.4	1.8	1.3	2
+147	Elon	CAA	18-14	0.3	0.8	1.2	2
+148	Wofford	Southern	16-17	4.3	-3.1	1.2	2
+149	Penn	Ivy	13-15	-1.0	2.1	1.1	--
+150	Massachusetts	A 10	15-18	-2.4	3.5	1.1	2
+151	Siena	MAAC	17-17	1.5	-0.4	1.1	--
+152	North Carolina Central	MEAC	25-8	-1.0	2.0	1.0	10
+153	Northeastern	CAA	15-16	1.3	-0.3	1.0	1
+154	North Dakota State	Summit	19-11	1.1	-0.4	0.7	--
+155	Marshall	C-USA	20-15	3.5	-2.8	0.7	9
+156	Wright State	Horizon	20-12	0.7	-0.1	0.6	1
+157	Ball State	MAC W	21-12	1.0	-0.4	0.6	1
+158	Boston College	ACC	9-23	-0.0	0.6	0.6	2
+159	South Dakota	Summit	22-11	-0.9	1.3	0.4	--
+160	Tulsa	American	15-17	-0.6	0.9	0.4	3
+161	Rice	C-USA	22-11	1.5	-1.2	0.3	8
+162	Utah State	MW	14-17	0.8	-0.6	0.3	10
+163	Western Michigan	MAC W	16-16	1.4	-1.2	0.2	2
+164	New Hampshire	Am. East	20-12	-1.6	1.6	0.1	1
+165	UAB	C-USA	17-16	0.5	-0.5	0.0	5
+166	Green Bay	Horizon	18-13	-1.9	1.8	-0.1	1
+167	Evansville	MVC	16-17	-1.2	1.2	-0.1	1
+168	Northern Iowa	MVC	14-16	-4.0	3.9	-0.1	3
+169	Samford	Southern	20-15	1.4	-1.6	-0.2	--
+170	Omaha	Summit	18-14	2.3	-2.5	-0.2	5
+171	Arizona State	Pac-12	15-18	4.0	-4.3	-0.2	7
+172	Saint Joseph's	A 10	11-20	-1.5	1.3	-0.2	6
+173	Jacksonville State	Ohio Valley E	20-14	0.7	-1.0	-0.2	3
+174	Loyola Marymount	WCC	15-15	-1.5	1.2	-0.3	--
+175	Hofstra	CAA	15-17	4.3	-4.6	-0.3	1
+176	Northern Kentucky	Horizon	24-10	0.6	-1.0	-0.4	1
+177	Missouri	SEC	8-24	-2.7	2.3	-0.4	4
+178	Southern Illinois	MVC	17-16	-0.7	0.2	-0.5	1
+179	Texas Southern	SWAC	23-11	1.5	-1.9	-0.5	12
+180	UMBC	Am. East	18-12	2.8	-3.4	-0.6	2
+181	Texas State	Sun Belt	20-13	-2.7	2.0	-0.7	13
+182	Boston University	Patriot	18-14	-1.3	0.6	-0.7	2
+183	Tennessee State	Ohio Valley E	17-13	-3.0	2.3	-0.7	3
+184	Eastern Washington	Big Sky	22-11	3.3	-4.1	-0.8	4
+185	Canisius	MAAC	18-16	2.5	-3.3	-0.8	2
+186	South Dakota State	Summit	18-16	3.6	-4.6	-1.0	1
+187	East Carolina	American	15-18	-4.3	3.3	-1.0	12
+188	DePaul	Big East	9-23	-0.7	-0.3	-1.0	1
+189	Wyoming	MW	18-14	-1.9	0.7	-1.1	9
+190	Washington	Pac-12	9-22	1.9	-3.1	-1.2	2
+191	Indiana State	MVC	11-20	-2.5	1.3	-1.2	--
+192	LSU	SEC	10-21	2.0	-3.3	-1.3	9
+193	Montana	Big Sky	16-16	0.9	-2.2	-1.3	3
+194	Hawai'i	Big West	14-16	-1.1	-0.2	-1.4	21
+195	Murray State	Ohio Valley W	16-17	1.7	-3.1	-1.4	2
+196	Morehead State	Ohio Valley E	14-16	0.6	-2.0	-1.4	1
+197	Liberty	Big South	20-13	-2.7	1.2	-1.5	--
+198	IUPUI	Summit	14-18	1.0	-2.5	-1.5	2
+199	Northern Illinois	MAC W	15-17	-3.0	1.3	-1.7	2
+200	Central Michigan	MAC W	16-16	4.6	-6.2	-1.7	--
+201	Fairfield	MAAC	16-14	-2.8	1.1	-1.7	2
+202	Denver	Summit	16-14	1.2	-3.0	-1.7	4
+203	Grand Canyon	WAC	22-9	-1.4	-0.4	-1.8	2
+204	Mount St Mary's	NEC	20-15	-3.1	1.2	-1.9	--
+205	Stony Brook	Am. East	18-13	-1.4	-0.5	-2.0	1
+206	Rider	MAAC	18-15	-2.4	0.4	-2.1	10
+207	Portland State	Big Sky	15-16	1.8	-3.9	-2.1	5
+208	Long Beach State	Big West	15-19	0.5	-2.7	-2.1	20
+209	Coastal Carolina	Sun Belt	16-17	-1.3	-0.9	-2.2	2
+210	UC Davis	Big West	22-12	-3.4	1.2	-2.2	2
+211	Columbia	Ivy	11-16	-1.7	-0.6	-2.3	2
+212	Eastern Illinois	Ohio Valley W	14-15	-2.6	0.2	-2.4	1
+213	Idaho	Big Sky	18-13	-1.2	-1.1	-2.4	--
+214	Utah Valley	WAC	15-16	-3.8	1.4	-2.4	--
+215	Fordham	A 10	13-19	-4.1	1.7	-2.4	5
+216	Navy	Patriot	16-16	-3.9	1.4	-2.5	4
+217	New Orleans	Southland	20-12	-2.6	0.2	-2.5	1
+218	Wagner	NEC	16-14	-2.4	-0.3	-2.7	3
+219	Little Rock	Sun Belt	15-17	-2.2	-0.6	-2.8	2
+220	Holy Cross	Patriot	15-17	-3.7	0.8	-2.9	1
+221	Western Kentucky	C-USA	15-17	-0.1	-2.9	-3.0	1
+222	UT Martin	Ohio Valley W	21-12	0.7	-3.9	-3.2	1
+223	North Florida	A-Sun	15-19	-0.3	-3.0	-3.2	6
+224	Duquesne	A 10	10-22	-2.8	-0.5	-3.3	2
+225	San José State	MW	14-16	-2.6	-0.7	-3.4	6
+226	Washington State	Pac-12	13-18	-0.8	-2.6	-3.4	9
+227	Lamar	Southland	19-14	-0.8	-2.6	-3.4	3
+228	South Alabama	Sun Belt	14-18	-3.9	0.5	-3.4	3
+229	James Madison	CAA	10-23	-3.1	-0.4	-3.5	1
+230	Sam Houston State	Southland	21-13	-4.2	0.7	-3.5	3
+231	Drexel	CAA	9-23	-1.1	-2.5	-3.5	2
+232	South Carolina Upstate	A-Sun	17-15	0.4	-3.9	-3.6	--
+233	SE Louisiana	Southland	16-16	-4.2	0.5	-3.7	8
+234	UTEP	C-USA	15-17	-2.9	-0.8	-3.8	--
+235	Pacific	WCC	11-22	-2.8	-1.0	-3.8	13
+236	Texas A&M-CC	Southland	20-11	-2.0	-2.0	-4.0	--
+237	St Francis (PA)	NEC	17-16	-1.5	-2.6	-4.1	5
+238	LIU Brooklyn	NEC	20-12	-2.9	-1.2	-4.1	2
+239	Charlotte	C-USA	13-17	-0.8	-3.4	-4.2	2
+240	UNLV	MW	11-21	-2.0	-2.2	-4.2	27
+241	Bradley	MVC	13-20	-5.2	0.9	-4.3	8
+242	Bowling Green	MAC E	13-19	-3.1	-1.3	-4.3	4
+243	Oral Roberts	Summit	8-22	0.1	-4.4	-4.3	1
+244	Tennessee Tech	Ohio Valley E	12-20	-3.7	-0.6	-4.4	1
+245	Fairleigh Dickinson	NEC	11-19	-0.3	-4.0	-4.4	--
+246	Jacksonville	A-Sun	17-16	-0.2	-4.2	-4.4	7
+247	Cleveland State	Horizon	9-22	-5.5	1.0	-4.4	--
+248	Appalachian St	Sun Belt	9-21	-2.5	-2.0	-4.5	10
+249	Montana State	Big Sky	16-16	-0.6	-3.8	-4.5	1
+250	Houston Baptist	Southland	17-14	-0.1	-4.5	-4.6	13
+251	NJIT	A-Sun	11-20	-3.1	-1.4	-4.6	1
+252	UIC	Horizon	15-18	-2.7	-1.9	-4.6	1
+253	Army	Patriot	13-19	-4.3	-0.4	-4.7	1
+254	CS Fullerton	Big West	17-14	-4.5	-0.3	-4.8	11
+255	Tulane	American	6-25	-2.1	-2.8	-4.8	2
+256	Southeast Missouri State	Ohio Valley W	15-18	-1.4	-3.6	-5.0	1
+257	High Point	Big South	15-16	-3.1	-1.9	-5.0	--
+258	Louisiana Monroe	Sun Belt	9-24	-3.9	-1.1	-5.0	2
+259	Stephen F. Austin	Southland	18-14	-5.5	0.5	-5.0	3
+260	Air Force	MW	12-21	-0.0	-5.0	-5.0	6
+261	Kennesaw State	A-Sun	14-18	-1.3	-3.8	-5.2	2
+262	Campbell	Big South	18-17	-2.2	-3.1	-5.2	6
+263	Robert Morris	NEC	14-19	-8.1	2.9	-5.2	5
+264	Cornell	Ivy	8-21	-2.8	-2.4	-5.3	3
+265	UMKC	WAC	17-16	-1.5	-3.8	-5.3	9
+266	Loyola (MD)	Patriot	15-16	-4.8	-0.5	-5.3	2
+267	Brown	Ivy	13-17	-0.7	-4.7	-5.4	1
+268	CSU Northridge	Big West	11-19	-0.1	-5.6	-5.7	5
+269	Eastern Kentucky	Ohio Valley E	12-19	-3.3	-2.4	-5.7	--
+270	Niagara	MAAC	10-23	-2.9	-2.9	-5.8	2
+271	Portland	WCC	11-22	-3.4	-2.4	-5.8	1
+272	Colgate	Patriot	10-22	-3.3	-2.6	-5.8	1
+273	UMass Lowell	Am. East	11-20	-0.0	-6.0	-6.0	--
+274	Northern Colorado	Big Sky	11-18	-4.0	-2.0	-6.0	--
+275	San Diego	WCC	13-18	-3.6	-2.6	-6.1	--
+276	Charleston Southern	Big South	12-19	-1.0	-5.1	-6.1	2
+277	Bryant	NEC	12-20	-1.4	-4.8	-6.2	1
+278	Miami (OH)	MAC E	11-21	-5.8	-0.4	-6.2	1
+279	Manhattan	MAAC	10-22	-4.7	-1.5	-6.2	1
+280	Quinnipiac	MAAC	10-21	-2.3	-4.0	-6.3	1
+281	Sacramento State	Big Sky	13-18	-1.8	-4.5	-6.3	4
+282	Oregon State	Pac-12	5-27	-4.9	-1.5	-6.4	--
+283	Drake	MVC	7-24	-1.5	-4.9	-6.5	2
+284	Florida International	C-USA	7-24	-1.8	-4.7	-6.5	--
+285	UT San Antonio	C-USA	14-19	-5.9	-0.6	-6.5	2
+286	Saint Louis	A 10	12-21	-5.9	-0.8	-6.6	2
+287	Milwaukee	Horizon	11-24	-2.9	-3.8	-6.7	--
+288	Alcorn State	SWAC	18-14	-5.4	-1.4	-6.9	11
+289	Florida Atlantic	C-USA	10-20	-4.4	-2.4	-6.9	3
+290	Western Illinois	Summit	8-20	-4.8	-2.2	-7.0	--
+291	Youngstown St	Horizon	13-21	-1.8	-5.2	-7.0	2
+292	Radford	Big South	14-18	-5.4	-1.6	-7.1	--
+293	Detroit Mercy	Horizon	8-23	-0.9	-6.2	-7.1	2
+294	The Citadel	Southern	12-21	0.2	-7.3	-7.1	2
+295	Binghamton	Am. East	12-20	-4.1	-3.0	-7.1	2
+296	Dartmouth	Ivy	7-20	-3.5	-3.7	-7.1	1
+297	South Florida	American	7-23	-5.3	-1.9	-7.2	1
+298	Seattle	WAC	13-17	-5.8	-1.5	-7.3	4
+299	UC Riverside	Big West	7-21	-7.1	-0.4	-7.5	2
+300	Sacred Heart	NEC	13-19	-4.4	-3.2	-7.6	--
+301	Delaware	CAA	13-20	-4.8	-2.9	-7.6	1
+302	Norfolk State	MEAC	17-17	-6.3	-1.4	-7.7	1
+303	Austin Peay	Ohio Valley W	11-19	-0.1	-7.6	-7.7	2
+304	American	Patriot	8-22	-6.1	-1.9	-8.0	--
+305	Marist	MAAC	8-24	-2.2	-5.8	-8.0	--
+306	Prairie View A&M	SWAC	13-20	-5.1	-3.0	-8.2	--
+307	Northwestern State	Southland	13-16	-3.0	-5.4	-8.4	--
+308	Stetson	A-Sun	11-21	-2.2	-6.2	-8.5	1
+309	Hampton	MEAC	14-16	-7.5	-1.1	-8.6	1
+310	Pepperdine	WCC	9-22	-2.8	-5.8	-8.6	1
+311	Cal Poly	Big West	11-20	-3.1	-5.7	-8.8	1
+312	North Texas	C-USA	8-22	-5.9	-3.1	-9.0	1
+313	Southern	SWAC	15-18	-4.5	-4.6	-9.0	5
+314	Abilene Christian	Southland	13-16	-5.4	-3.7	-9.1	1
+315	Jackson State	SWAC	14-18	-7.4	-1.9	-9.4	1
+316	UT Rio Grande Valley	WAC	10-22	-3.9	-5.6	-9.5	2
+317	UC Santa Barbara	Big West	6-22	-6.8	-2.7	-9.5	--
+318	Maryland-Eastern Shore	MEAC	14-20	-4.3	-5.2	-9.5	4
+319	Central Arkansas	Southland	8-24	-1.8	-7.8	-9.7	--
+320	Incarnate Word	Southland	12-17	-3.0	-6.7	-9.7	1
+321	Nicholls	Southland	14-17	-4.9	-4.8	-9.8	1
+322	Grambling	SWAC	16-17	-6.1	-4.0	-10.1	3
+323	VMI	Southern	6-24	-5.0	-5.3	-10.3	3
+324	SIU Edwardsville	Ohio Valley W	6-24	-7.4	-2.9	-10.3	--
+325	Morgan State	MEAC	14-16	-8.7	-1.6	-10.3	2
+326	Southern Utah	Big Sky	6-27	-1.9	-8.4	-10.4	4
+327	Savannah State	MEAC	13-16	-4.0	-6.5	-10.5	--
+328	Southern Miss	C-USA	9-22	-8.4	-2.4	-10.9	1
+329	Northern Arizona	Big Sky	9-23	-5.8	-5.1	-10.9	1
+330	Idaho State	Big Sky	5-26	-4.3	-6.6	-10.9	--
+331	Lafayette	Patriot	9-21	-5.3	-5.7	-10.9	--
+332	Hartford	Am. East	9-23	-7.5	-3.5	-11.0	--
+333	Maine	Am. East	7-25	-7.7	-3.5	-11.2	--
+334	Western Carolina	Southern	9-23	-10.6	-0.7	-11.3	--
+335	Alabama State	SWAC	8-23	-7.7	-4.2	-11.9	--
+336	McNeese	Southland	7-22	-6.3	-5.6	-12.0	--
+337	Delaware State	MEAC	10-22	-6.3	-5.8	-12.1	--
+338	Howard	MEAC	10-24	-9.4	-3.3	-12.7	--
+339	Central Connecticut	NEC	6-23	-7.8	-5.5	-13.3	--
+340	Mississippi Valley State	SWAC	7-25	-5.9	-7.7	-13.6	1
+341	Bethune-Cookman	MEAC	10-22	-6.8	-7.0	-13.7	1
+342	South Carolina State	MEAC	11-20	-4.7	-9.2	-14.0	--
+343	Chicago State	WAC	6-26	-8.4	-5.9	-14.3	--
+344	St Francis (BKN)	NEC	4-27	-11.0	-3.4	-14.4	--
+345	Longwood	Big South	6-24	-7.1	-7.8	-14.8	--
+346	Florida A&M	MEAC	7-23	-8.7	-6.1	-14.8	--
+347	Arkansas-Pine Bluff	SWAC	7-25	-12.6	-2.8	-15.4	--
+348	Coppin State	MEAC	8-24	-9.1	-7.8	-16.9	--
+349	Presbyterian College	Big South	5-25	-9.8	-7.3	-17.1	--
+350	North Carolina A&T	MEAC	3-29	-7.4	-10.2	-17.5	--
+351	Alabama A&M	SWAC	2-27	-8.5	-10.5	-19.1	--

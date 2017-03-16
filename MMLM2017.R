@@ -72,6 +72,36 @@ rpi$rpi <- trimws(rpi$rpi)
 rpi <- separate(rpi, rpi, c("rpi_rank", "Team_Name", "W", "L", "RATING", "rpi_rank_high", "rpi_rank_low", "rpi_rank_last"), sep = ";", remove = TRUE)
 write.csv(rpi, file = "Data/teamrankings_RPI_cleaned.csv", row.names = FALSE, quote = FALSE)
 
+bpi <- read.csv("Data/teamrankings_BPI.csv")
+bpi$bpi <- gsub("[[:blank:]]{2,}", " ", bpi$bpi[])
+bpi$bpi <- gsub("([[:digit:]])([[:blank:]])", "\\1;", bpi$bpi[])
+bpi$bpi <- gsub("\t", ";", bpi$bpi[])
+bpi$bpi <- trimws(bpi$bpi)
+bpi <- separate(bpi, bpi, c("bpi_rank", "Team_Name", "Conference", "W-L", "bpi_off", "bpi_def", "bpi_rating", "seven_day_rank_change"), sep = ";", remove = TRUE)
+write.csv(bpi, file = "Data/teamrankings_BPI_cleaned.csv", row.names = FALSE, quote = FALSE)
+
+fivethirtyeight <- read.csv("Data/teamrankings_fivethirtyeight.csv")
+fivethirtyeight$ns538 <- gsub("[[:blank:]]{2,}", " ", fivethirtyeight$ns538[])
+fivethirtyeight$ns538 <- gsub("([[:digit:]])([[:blank:]])", "\\1;", fivethirtyeight$ns538[])
+fivethirtyeight$ns538 <- gsub("\t", ";", fivethirtyeight$ns538[])
+fivethirtyeight <- filter(fivethirtyeight, !grepl("%", ns538))
+fivethirtyeight$ns538 <- gsub("([[:blank:]])([[:digit:]])", ";\\2", fivethirtyeight$ns538[])
+fivethirtyeight$ns538 <- gsub(";âˆš;", "", fivethirtyeight$ns538[])
+fivethirtyeight$ns538 <- gsub("[;]$", "", fivethirtyeight$ns538[])
+fivethirtyeight$ns538 <- trimws(fivethirtyeight$ns538)
+fivethirtyeight <- separate(fivethirtyeight, ns538, c("Team_Name", "Seed", "Region", "Rating"), sep = ";", remove = TRUE)
+write.csv(fivethirtyeight, file = "Data/teamrankings_fivethirtyeight_cleaned.csv", row.names = FALSE, quote = FALSE)
+
+massey <- read.csv("Data/teamrankings_massey.csv")
+massey$massey <- gsub("\t", ";", massey$massey[])
+massey$massey <- gsub("[;]$", "", massey$massey[])
+massey <- separate(massey, massey, c("Team_Name", "Conference", "Record", "Win_Percent", "Delta", "Rank", "Rating", "Power_Rank", "Power", "Offense_Rank", "Offense", "Defense_Rank", "Defense", "HFA", "SoS_Rank", "SoS", "SSF_Rank", "SSF", "EW", "EL"), sep = ";", remove = TRUE)
+write.csv(massey, file = "Data/teamrankings_massey_cleaned.csv", row.names = FALSE, quote = FALSE)
+
+
+
+kenpom <- read.csv("Data/teamrankings_kenpom.csv")
+
 
 playerdata_roster <- read.csv("Data/playerdata_roster.csv")
 playerdata_statistics <- read.csv("Data/playerdata_statistics.csv")
